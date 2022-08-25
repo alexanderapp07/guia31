@@ -1,0 +1,31 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@moneda":"USD",
+		"@idioma":"Español",
+		"@codigo":"503",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Paz",
+				"cabecera":"Zacatecoluca",
+				"habitantes":"328221",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"3",
+				"@nombre":"San Miguel",
+				"cabecera":"San Miguel",
+				"habitantes":"478792",
+				"altura":"545 MSNM"
+			}
+		]
+	}
+}

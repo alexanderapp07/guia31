@@ -1,0 +1,25 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Zacatecoluca",
+				"habitantes": "328221",
+				"altura": "545 MSNM",
+				"moneda": "USD",
+				"_id": "2",
+				"_nombre": "La Paz"
+			}
+		],
+		"_nombre": "El Salvador",
+		"_moneda": "USD",
+		"_idioma": "Español",
+		"_codigo": "503"
+	}
+}

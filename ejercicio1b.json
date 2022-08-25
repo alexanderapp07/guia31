@@ -1,0 +1,18 @@
+{
+	"fichero": {
+		"ficha": {
+			"nombre": "Alexander",
+			"apellido": "Aparicio",
+			"direccion": "Cuscatancingo, San Salvador",
+			"telefono": "74433887",
+			"email": "ac18107@ues.edu.sv",
+			"documentacion": {
+				"dui": "05856936-7",
+				"isss": "3984593843",
+				"afp": "109569561039"
+			},
+			"_id": "1",
+			"_fechaingreso": "24/08/2022"
+		}
+	}
+}

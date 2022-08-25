@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="ejercicio1a.css" ?>
+<!-- ejemplo1.xml AC18107 -->
+<fichero>
+  <ficha id="1" fechaingreso="24/08/2022">
+    <nombre>Alexander</nombre>
+    <apellido>Aparicio</apellido>
+    <direccion>Cuscatancingo, San Salvador</direccion>
+    <telefono>74433887</telefono>
+    <email>ac18107@ues.edu.sv</email>
+  </ficha>
+</fichero>

@@ -1,0 +1,9 @@
+/* ejemplo1a.css AC18107 */
+
+fichero {background-color:gray;}
+ficha {background-color:white; display:block;}
+nombre {color:black; display:inline;}
+apellido {color:black; display:inline;}
+direccion {color:black; display:inline;}
+telefono {color:black; display:inline;}
+email {color:black; display:inline;}
